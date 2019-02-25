@@ -2,7 +2,6 @@ import org.apache.log4j.LogManager
 import org.apache.spark.sql.SparkSession
 import org.apache.spark.{SparkConf, SparkContext}
 
-
 object HW5 {
 
   def main(args: Array[String]): Unit = {
